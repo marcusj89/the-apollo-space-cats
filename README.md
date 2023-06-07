@@ -40,13 +40,13 @@ From your terminal go to your local **project** files and `cd` into the **client
 
 Run the following **npm** scripts inside of each directory:
 
-```bash
+```js
   npm install && npm start
 ```
 
 Open your web browser and go to 
 
-```bash
+```js
   http://localhost:3000   # web browser
   http://localhost:4000   # server access to Apollo Explorer 
 ```
