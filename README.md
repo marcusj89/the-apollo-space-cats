@@ -1,6 +1,6 @@
 # The Apollo SpaceCats  :octocat:  &nbsp; &nbsp;      
 
-```code
+```js
 https://github.com/apollographql/odyssey-lift-off-part1
 ```
 
