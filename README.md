@@ -1,10 +1,17 @@
 # The Apollo SpaceCats  :octocat:  &nbsp; &nbsp;
 
-<span>....  🐈‍⬛  🐈‍⬛   🐈‍⬛  🌲🌳   </span>   &nbsp; &nbsp; >>> &nbsp; A Ref & Archive Code Files ___JS___ Affair __®__ 
+<span>....  🐈‍⬛  🐈‍⬛   🐈‍⬛  🌲🌳   </span>   &nbsp; &nbsp; >>> &nbsp; A Ref & Archive Code Files ___JS___ Affair __®__        
 
-GraphQL, Apollo Server, Apollo Client, React
+<br />
+<pre><code>https://github.com/apollographql/odyssey-lift-off-part1</code></pre>
 
-## About
+&nbsp;
+
+## ___GraphQL, Apollo Server, Apollo Client, React___
+
+
+#### 🥝 About Proj
+
 
 ##### Server
 - Build graphql API, schema        
